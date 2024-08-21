@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ODDEVEN.C": "cpp",
+        "ALPHABET.C": "cpp",
+        "CALC.C": "cpp",
+        "GRADE.C": "cpp",
+        "GROSSSAL.C": "cpp",
+        "LEAP.C": "cpp",
+        "ADMISSIO.C": "cpp",
+        "BASICOP.C": "cpp",
+        "SERSUM.C": "cpp"
+    }
+}
