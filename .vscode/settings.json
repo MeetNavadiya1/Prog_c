@@ -8,6 +8,7 @@
         "LEAP.C": "cpp",
         "ADMISSIO.C": "cpp",
         "BASICOP.C": "cpp",
-        "SERSUM.C": "cpp"
+        "SERSUM.C": "cpp",
+        "SUM50.C": "cpp"
     }
 }
